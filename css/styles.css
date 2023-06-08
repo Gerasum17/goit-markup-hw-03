@@ -210,6 +210,9 @@ flex-direction: column;
     letter-spacing: 0.02em;
     color: var(--title-text-color);
 }
+.mesenger{
+    padding-bottom: 120px;
+}
 
 .mesenger-title {
     font-style: normal;
@@ -233,10 +236,12 @@ flex-direction: column;
 
 .people {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
 .people-item {
     background-color: #FFFFFF;
+    border-radius: 0px 0px 4px 4px;
     
 }
 .people-list{
