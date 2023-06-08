@@ -189,7 +189,7 @@ flex-direction: column;
 }
 
 .service-item{
-    
+width: calc((100% - 72px) / 4);
 }
 
 .service-list{
@@ -197,7 +197,7 @@ flex-direction: column;
    padding-left: 15px;
    padding-right: 15px; 
    gap: 24px;
-   width: calc((100% - 72px) / 4);
+   
 }
 .service-name {
     font-style: normal;
