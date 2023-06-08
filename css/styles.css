@@ -83,7 +83,6 @@ h6 {
     min-width: 261px;
     margin-left: 76px;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .header-menu-link {
@@ -93,6 +92,7 @@ h6 {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--second-text-color);
+    padding: 24px 0;
 }
 
 .header-menu-link:hover,
