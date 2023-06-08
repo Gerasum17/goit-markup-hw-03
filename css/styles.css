@@ -127,6 +127,7 @@ gap: 40px;
     background-color: #2E2F42;
     padding-top: 188px;
     padding-bottom: 48px;
+    padding: 188px 0;
 }
 .hero-container{
 flex-direction: column;
