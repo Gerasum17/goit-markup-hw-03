@@ -181,6 +181,9 @@ flex-direction: column;
 .service{
     padding: 120px 0;
 }
+.visually-hidden{
+    margin-bottom: 8px;
+}
 
 .service-item{
     width: calc((100% - 72px) / 4);
