@@ -197,6 +197,7 @@ flex-direction: column;
    padding-left: 15px;
    padding-right: 15px; 
    gap: 24px;
+   width: calc((100% - 72px) / 4);
 }
 .service-name {
     font-style: normal;
@@ -206,7 +207,7 @@ flex-direction: column;
     letter-spacing: 0.02em;
     color: var(--second-text-color);
     margin-bottom: 8px;
-    width: calc((100% - 72px) / 4);
+    
 }
 
 .service-item-text {
