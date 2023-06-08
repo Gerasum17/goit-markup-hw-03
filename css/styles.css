@@ -178,6 +178,9 @@ flex-direction: column;
     background-color: #404BBF
 }
 
+.service{
+    padding: 120px 0;
+}
 
 .service-item{
     width: 264px;
