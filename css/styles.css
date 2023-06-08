@@ -177,6 +177,9 @@ flex-direction: column;
 .hero-btn:focus {
     background-color: #404BBF
 }
+.visually-hidden{
+    margin-bottom: 8px;
+}
 
 .service{
     padding: 120px 0;
