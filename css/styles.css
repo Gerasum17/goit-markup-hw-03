@@ -367,7 +367,8 @@ flex-direction: column;
 }
 
 .portfolio-list-name{
-row-gap: 48px;
+
+
 }
 .portfolio-list-img{
     display: flex;
@@ -375,6 +376,7 @@ row-gap: 48px;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 24px;
+    row-gap: 48px;
 }
 
 .container-name{
