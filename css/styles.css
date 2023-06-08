@@ -190,6 +190,7 @@ flex-direction: column;
 
 .service-item{
 width: calc((100% - 72px) / 4);
+padding-left: 0;
 }
 
 .service-list{
