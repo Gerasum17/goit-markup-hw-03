@@ -11,6 +11,9 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
+img{
+    display: block;
+}
 
 p,
 h1,
