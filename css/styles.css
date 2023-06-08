@@ -205,7 +205,7 @@ flex-direction: column;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--second-text-color);
-    margin-bottom: 8;
+    margin-bottom: 8px;
 }
 
 .service-item-text {
