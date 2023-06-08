@@ -289,8 +289,7 @@ flex-direction: column;
 
 .footer {
     background-color: #2e2f42;
-    padding-top: 100px;
-    padding-left: 100px;
+    padding: 100px 0;
 }
 .footer-container{
     flex-direction: column;
@@ -307,6 +306,7 @@ flex-direction: column;
     color: var(--button-text-color);
     display: inline-block;
     margin-bottom: 17,5px;
+    margin-bottom: 16px;
 }
 
 .footer-logo-part {
