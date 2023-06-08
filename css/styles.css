@@ -183,7 +183,7 @@ flex-direction: column;
 }
 
 .service-item{
-    width: 264px;
+    width: calc((100% - 72px) / 4);
 }
 
 .service-list{
@@ -328,6 +328,10 @@ flex-direction: column;
     max-width: 264px;
 }
 
+.portfolio{
+    padding-top: 96px;
+    padding-bottom: 120px;
+}
 
 .portfolio-list{
     display: flex;
@@ -347,12 +351,16 @@ flex-direction: column;
     color: var(--button-text-color);
     background-color: #F4F4FD;
     cursor: pointer;
+    padding: 12px 24px;
+    border: 1px solid #e7e9fc;
+    border-radius: 4px;
 }
 
 .portfolio-btn:hover,
 .portfolio-btn:focus {
     color: #FFFFFF;
     background-color: #404BBF;
+    border: 1px solid transparent;
 }
 
 .portfolio-list-name{
