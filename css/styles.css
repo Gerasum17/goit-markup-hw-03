@@ -189,7 +189,7 @@ flex-direction: column;
 }
 
 .service-item{
-    width: calc((100% - 72px) / 4);
+    
 }
 
 .service-list{
@@ -206,6 +206,7 @@ flex-direction: column;
     letter-spacing: 0.02em;
     color: var(--second-text-color);
     margin-bottom: 8px;
+    width: calc((100% - 72px) / 4);
 }
 
 .service-item-text {
